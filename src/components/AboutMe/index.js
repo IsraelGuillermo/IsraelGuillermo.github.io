@@ -55,14 +55,14 @@ function AboutMe() {
                 href="https://github.com/IsraelGuillermo"
                 download="resume"
               >
-                <i class="fab fa-github-square"></i>
+                <i className="fab fa-github-square"></i>
               </a>
               <a
                 target="blank"
                 className="footer-links white-links"
                 href="https://github.com/IsraelGuillermo/resume/raw/main/Israel%20Guillermo%20Resume%20.pdf"
               >
-                <i class="far fa-file"></i>
+                <i className="far fa-file"></i>
               </a>
             </p>
             <a href="#projectContainer">
