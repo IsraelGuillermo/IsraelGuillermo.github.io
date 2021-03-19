@@ -20,3 +20,9 @@
   color: #def2f1 !important;
   background-color: #314455 !important;
 }
+
+@media only screen and (max-width: 600px) {
+  #projectContainer {
+    padding-top: 55%;
+  }
+}

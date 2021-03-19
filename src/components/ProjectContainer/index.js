@@ -3,7 +3,7 @@ import './index.css';
 
 function ProjectContainer(props) {
   return (
-    <div id="projectContainer" className="jumbotron container-fluid ">
+    <div id="projectContainer" className="jumbotron container-fluid projects">
       <h2 className=" text-center">PROJECTS</h2>
       <div className="container">
         <div className="row mb-5">{props.children}</div>

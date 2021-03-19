@@ -4,18 +4,18 @@ import './index.css';
 function AboutMe() {
   return (
     <section id="about" className="container-fluid">
-      <div className="row d-flex justify-content-center ">
+      <div className="row d-flex justify-content-center pt-5">
         <h2 className="py-5 text-center">ABOUT ME</h2>
       </div>
       <div className="row">
-        <div className="col-md-4 d-flex justify-content-end pb-5">
+        <div className="col-lg-12 col-xl-6 d-flex justify-content-center ">
           <img
             className=" rounded profilePic"
             src="../assets/images/profilePic.jpg"
             alt="Israel Guillermo"
           />
         </div>
-        <div className="col-md-6 text-center">
+        <div className="col-xl-5 col-lg-12 text-center mr-1">
           <p>
             Software engineer with experience in banking, insurance and
             business. In these fields I held roles such as team lead, executive
