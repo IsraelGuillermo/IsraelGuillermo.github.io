@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "IntelliSup",
+    "description": "The application is designed to allow user to make a new purchase order from suppliers. This order is then submitted into the database and displayed in a table through tabulator. The application also allows the user to update tracking information and estimated ship date for each product.",
+    "image": "./assets/images/intellisup.png",
+    "technologies": "JavaScript, Node.js, Bulma, MySQL",
+    "deployed": "https://intellisup.herokuapp.com/",
+    "github": "https://github.com/IsraelGuillermo/IntelliSup"
+  },
+  {
+    "id": 2,
+    "title": "NFL Teams",
+    "description": "NFL Teams is an application which allows the user to search and save their favorite team. The application provides a total of 10 games, 5 past and 5 future games along with scores, where available. On top of this the application provides the latest news related to your favorite team!",
+    "image": "./assets/images/teamsNFL.png",
+    "technologies": "JavaScript, JQuery, API, Bulma",
+    "deployed": "https://israelguillermo.github.io/NFL-Teams/",
+    "github": "https://github.com/IsraelGuillermo/NFL-Teams"
+  },
+  {
+    "id": 3,
+    "title": "Movie Search",
+    "description": "Movie search is an application that allows the user to search for any movie! The program returns 8 results with the title or word searched for. Results are then displayed for user to see. An option to select more info is also provided to see additional information on a specific movie.",
+    "image": "./assets/images/movieSearch.png",
+    "technologies": "JavaScript, JQuery, API, CSS",
+    "deployed": "https://israelguillermo.github.io/movie_search/",
+    "github": "https://github.com/IsraelGuillermo/movie_search"
+  },
+  {
+    "id": 4,
+    "title": "Note Taker",
+    "description": "This project is a full stack applcation with a front and back end. This is the perfect program for note taking. The user can make new notes and delete old notes. The information which is typed into the note section is received through the client and then sent to the server.",
+    "image": "./assets/images/noteScreen.png",
+    "technologies": "JavaScript, JQuery, API, Bulma",
+    "deployed": "https://protected-caverns-31589.herokuapp.com/",
+    "github": "https://github.com/IsraelGuillermo/Note_Taker"
+  },
+  {
+    "id": 5,
+    "title": "Weather Dashboard",
+    "description": "Weather Dashboard is an application which allows you to see the weather anywhere in the world! This application gives you the current weather, wind speed, humidity and UV index! This application will also provide the user with a 5 day forecast of the weather!",
+    "image": "./assets/images/weatherDashboard.png",
+    "technologies": "JavaScript, JQuery, API, CSS",
+    "deployed": "https://israelguillermo.github.io/weather_dashboard/",
+    "github": "https://github.com/IsraelGuillermo/weather_dashboard"
+  },
+  {
+    "id": 6,
+    "title": "My Fitness App",
+    "description": "This application allows the user to track workouts on a daily. The user can submit a workout each day or multiple worksouts in one day. The options consist of cardio or resistance workouts. Once a workout is completed the next workout can be started. This application also has a dashboard which shows results and graphs or workout minutes and weight lifted.",
+    "image": "./assets/images/workout.png",
+    "technologies": "Javascript, Heroku, CSS",
+    "deployed": "https://shrouded-woodland-91273.herokuapp.com/?id=60104f5f2510c7001591cddf",
+    "github": "https://github.com/IsraelGuillermo/myFitnessApp"
+  }
+]

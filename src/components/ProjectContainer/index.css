@@ -1,0 +1,22 @@
+#projectContainer {
+  background-color: #02aab0;
+  background-image: linear-gradient(135deg, #3aafa9, #2b7a78);
+  color: #314455;
+  height: 100%;
+  border-top: 0;
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 92%, 0 100%);
+  clip-path: polygon(0 0, 100% 2.5%, 100% 97%, 0 100%);
+  padding-top: 22.5%;
+  padding-bottom: 15%;
+  width: 100vw;
+  margin-top: 2em;
+}
+
+.btn {
+  color: #314455 !important;
+  border: 1px solid #314455 !important;
+}
+.btn:hover {
+  color: #def2f1 !important;
+  background-color: #314455 !important;
+}
