@@ -1,4 +1,4 @@
-section {
+/* section {
   min-height: 100vh;
   height: 100vh;
   display: flex;
@@ -14,7 +14,7 @@ section {
   bottom: 0;
   right: 0;
   z-index: -1;
-}
+} */
 
 button {
   width: 7.5em;
