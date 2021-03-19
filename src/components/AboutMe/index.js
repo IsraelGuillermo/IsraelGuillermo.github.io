@@ -4,7 +4,7 @@ import './index.css';
 function AboutMe() {
   return (
     <section id="about" className="container-fluid">
-      <div>
+      <div className="row d-flex justify-content-center ">
         <h2 className="py-5 text-center">ABOUT ME</h2>
       </div>
       <div className="row">

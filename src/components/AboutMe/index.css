@@ -29,8 +29,9 @@ i:hover {
   border: 1px solid #3aafa9 !important;
 }
 .profilePic {
+  min-width: auto;
   max-width: 75%;
-  height: auto;
+  max-height: auto;
 }
 @media only screen and (max-width: 600px) {
   .profilePic {
